@@ -1,0 +1,23 @@
+{
+  "name": "serializer",
+  "version": "1.0.0",
+  "description": "serializer for json files",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasya1701/serializer.git"
+  },
+  "author": "https://github.com/Anastasya1701",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasya1701/serializer/issues"
+  },
+  "homepage": "https://github.com/Anastasya1701/serializer#readme",
+  "dependencies": {
+    "prettier": "^2.8.3"
+  }
+}
