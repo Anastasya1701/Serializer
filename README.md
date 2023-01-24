@@ -7,7 +7,7 @@
 #### 4. The result you will receive in by path `/result/result.json`
 
 #### You can change input data by replacing it by path `/input/nodes.json`
-#### Any time by running `node index.js` you will replace file `result/result.json`
+#### Any time by running `node index.js` you will replace file `result.json`
 
 #### Main function is `serializeNode` in the file index.js
 #### I tried to describe the steps in as much detail as possible in the comments but still if you have any questions please don`t hesitate to cantact me

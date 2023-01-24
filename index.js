@@ -117,4 +117,4 @@ const serializeNode = (nodesArr) => {
 const jsonResult = JSON.stringify(serializeNode(inputNodes), null, 2);
 
 // creating a file with output by path /result/result.json
-fs.writeFileSync("./result/result.json", jsonResult);
+fs.writeFileSync("./result.json", jsonResult);
